@@ -15,6 +15,7 @@ export default class SingleSelect extends Component {
 
   render() {
     console.log("how its going", this.state.selected_option);
+
     return (
       <Fragment>
         <Select
