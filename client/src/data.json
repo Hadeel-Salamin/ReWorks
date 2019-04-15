@@ -70,7 +70,15 @@
     "Used (some imperfections)",
     "Vintage"
   ],
-  "age": ["0-6 Mths", "6-12 Mths", "1-5 Years", "5-10 Years", "10 Years", "10+ Years", "25+ Years"],
+  "age": [
+    "0-6 Mths",
+    "6-12 Mths",
+    "1-5 Years",
+    "5-10 Years",
+    "10 Years",
+    "10+ Years",
+    "25+ Years"
+  ],
   "sizeCategory": ["Mens", "Womens", "Unisex", "Youth", "Kids", "Infant"],
   "labelSize": [
     "Small",
@@ -86,5 +94,10 @@
     "XL",
     "XXL",
     "XXXL"
+  ],
+  "colourOptions": [
+    { "value": "chocolate", "label": "Chocolate", "id": "1" },
+    { "value": "strawberry", "label": "Strawberry", "id": "2" },
+    { "value": "vanilla", "label": "Vanilla", "id": "3" }
   ]
 }
