@@ -182,7 +182,6 @@ class Form extends Component {
                 },
               ]}
               styles={this.colourStyles}
-              onChange={handleChange}
             />
             <StyledSelect onChange={toggleOpen} name="patterns" value={selected_patterns}>
               {showDefaultOption && (
