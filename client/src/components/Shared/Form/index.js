@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { ModalProvider } from 'styled-react-modal';
-import select from 'react-select';
+import Select from 'react-select';
 import chroma from 'chroma-js';
 import Popup from '../Popup';
 
